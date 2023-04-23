@@ -22,6 +22,8 @@ The board has other peripherals :
 * Loadcell and the HX711 (it's amplifier) to measure how many filament is left
 * A few buttons to control everything
 
+The Arduino code can be found on [another repository](https://github.com/Adloeth/FilamentDryer).
+
 ![Little rendering](FilamentDryer.png)
 
 ## Why I did all this
